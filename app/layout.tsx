@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Pulse",
   description: "A living globe of anonymous strangers. Tap a dot, start talking.",
+  icons: { icon: "/placeholder.svg" },
 };
 
 export default function RootLayout({
